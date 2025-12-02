@@ -99,8 +99,9 @@ body {
 
 /* Logo image */
 .brand-logo{
-  height: 10px;      /* adjust if you want bigger/smaller */
-  width: 50px;
+  height: 97px;      /* adjust if you want bigger/smaller */
+  width: auto;      /* adjust if you want bigger/smaller */
+  width: auto;
   display: block;
   object-fit: contain;
 }
